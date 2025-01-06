@@ -1,7 +1,7 @@
 # Snowflake_Project
 # End-to-End Data Engineering Project with Snowflake & Azure  
 
-![Project Architecture](Snow flake flow diagram.png)
+![Project Architecture]()
 
 
 ## 🛠️ Project Overview  
