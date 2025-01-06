@@ -1,8 +1,7 @@
 # Snowflake_Project
 # End-to-End Data Engineering Project with Snowflake & Azure  
 
-![Project Architecture]()
-
+![Snow flake flow diagram](https://github.com/user-attachments/assets/991a45f8-0cd3-4bbd-becf-2749172618a0)
 
 ## 🛠️ Project Overview  
 This project focuses on implementing a modern data engineering solution for an **e-commerce company** with over **5M customers**, addressing challenges in **data management**, **processing delays**, **scalability**, **data quality**, and **advanced analytics**.
